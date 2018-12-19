@@ -126,7 +126,7 @@ const winstonLogger = winston.createLogger({
  *
  ***********************/
 
-// Prints to the console and save to the 'filepath'
+// Prints to the console and saves to the 'filepath'
 winstonLogger.log('info', 'Winston is a library');
 winstonLogger.log('error', 'Some kind of error');
 winstonLogger.log('warn', 'About to over flow');
