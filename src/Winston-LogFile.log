@@ -1,0 +1,4 @@
+ [LOGGER]  2018-12-19 13:40:29  info : Winston is a library
+ [LOGGER]  2018-12-19 13:40:29  error : Some kind of error
+ [LOGGER]  2018-12-19 13:40:29  warn : About to over flow
+ [LOGGER]  2018-12-19 13:40:29  debug : Aww bugs
